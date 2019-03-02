@@ -1,1 +1,1 @@
-# Selftought python practice code.
+# Self-taught python practice code.
